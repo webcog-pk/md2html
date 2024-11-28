@@ -1,0 +1,9 @@
+Package: md2html
+Version: 1.0.0
+Section: utils
+Priority: optional
+Architecture: amd64
+Depends: python3, libc6
+Maintainer: Wajahat Murtaza test.webcog@gmail.com
+Description: A simple Markdown to HTML converter
+ This tool converts Markdown files into clean HTML documents.
